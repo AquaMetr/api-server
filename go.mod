@@ -1,4 +1,4 @@
-module github.com/aqua-safe/api-server
+module github.com/AquaMetr/api-server
 
 go 1.19
 
